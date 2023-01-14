@@ -21,6 +21,7 @@ coverage/*
 **/*.config
 **/*.creator
 *.log
+*.tmp
 .DS_Store
 bin/florincoin*
 bin/SHA256SUMS.asc
